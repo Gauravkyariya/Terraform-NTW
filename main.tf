@@ -1,3 +1,4 @@
+# creating custome network using terraform.
 # create vpc
 resource "aws_vpc" "cust-vpc" {
   
